@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    
+    }
+    
+  
+#main{
+    background-image: url('bus.jpg');
+background-size: cover;
+}
+#cl{
+    background-color:#000 ;
+    height: 500px;
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+    opacity: 0.7;
+}
+#cl h2{
+    color: whitesmoke;
+    border-bottom: 2px solid #3399ff;
+    width: 160px;
+    padding: 2px;
+}
+::placeholder{
+    color: white;
+}
+#input #input-group{
+    width: 300px;
+    margin: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+}
+#input2 #input-group{
+  width: 195px;
+  margin: 5px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+}
+#input3 #input-group {
+    margin-left: 50px;
+}
+#input4 #input-group{
+    width: 300px;
+    margin: 5px;
+}
+#input4 #input-group{
+    width: 300px;
+    margin: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+}
+#input4 #input-group1{
+    width: 620px;
+    margin: 5px; border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+}
+#input5 h2{
+    color: whitesmoke;
+    border-bottom: 2px solid #3399ff;
+    width: 170px;
+    padding: 2px;
+}
+#input6 #input-group{
+    width: 300px;
+    margin: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+
+}
+
+ #input6 #input-group1{
+    width: 620px;
+    margin: 5px;
+     border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+ }
+ button{
+
+    border: 2px solid blue;
+    color:black;
+    background: transparent;
+ }
